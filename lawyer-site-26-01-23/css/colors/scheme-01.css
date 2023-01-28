@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #eaa636;
+  /* --primary-color: #03796e; */
+  /* --primary-color: #2b719e; */
+  /* --primary-color:  rgb(36, 46, 63); */
+  /* --primary-color:  rgb(243, 243, 243); */
+  /* --primary-color: #0061f2 !important; */
+  --primary-color: #bc9e51 !important;
+    /* background-image: linear-gradient(135deg, #0061f2 0%, rgba(105, 0, 199, 0.8) 100%) !important; */
+}
